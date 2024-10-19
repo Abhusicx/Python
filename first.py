@@ -1,0 +1,5 @@
+print("namaste dunia")
+print("thala for a reason", 7)
+print(18)
+print(15*3)
+print(18-14)
